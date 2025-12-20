@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Opa, eu sou o Gustavo
 
-<!--
-**gustavoabelio/gustavoabelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciências da Computação (UNESP Rio Claro)  
+💻 Desenvolvedor em formação com foco em back-end e infraestrutura de TI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+- Java | Spring Boot
+- Python
+- Sistemas Operacionais
+- Segurança da Informação
+- Git & GitHub
+- Métodos Ágeis 
+
+---
+
+## 📌 Sobre mim
+Atualmente estou focado em fortalecer minha base técnica em desenvolvimento de software e infraestrutura.
+
+Tenho facilidade para trabalhar em equipe, aprender novas tecnologias e resolver problemas de forma organizada.
+
+---
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/gustavo-abelio-59774a372
