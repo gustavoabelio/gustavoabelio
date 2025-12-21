@@ -1,7 +1,7 @@
 # 👋 Opa, eu sou o Gustavo
 
 🎓 Estudante de Ciências da Computação (UNESP Rio Claro)  
-💻 Desenvolvedor em formação com foco em back-end e infraestrutura de TI  
+💻 Desenvolvedor foco em back-end e infraestrutura de TI  
 
 ---
 
