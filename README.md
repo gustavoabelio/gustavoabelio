@@ -1,12 +1,13 @@
 # 👋 Opa, eu sou o Gustavo
 
 🎓 Estudante de Ciências da Computação (UNESP Rio Claro)  
-💻 Desenvolvedor com foco em back-end e infraestrutura de TI  
+💻 Desenvolvedor Full Stack, com foco em Back-end e Infraestrutura de TI
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 - Java | Spring Boot
+- React
 - Python
 - Sistemas Operacionais
 - Segurança da Informação
