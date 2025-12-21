@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Sobre mim
-Atualmente estou focado em fortalecer minha base técnica em desenvolvimento de software e infraestrutura.
+Atualmente focado em fortalecer minha base técnica em desenvolvimento de software e infraestrutura.
 
 Tenho facilidade para trabalhar em equipe, aprender novas tecnologias e resolver problemas de forma organizada.
 
