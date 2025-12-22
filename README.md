@@ -12,7 +12,6 @@
 - Sistemas Operacionais
 - Segurança da Informação
 - Git & GitHub
-- Métodos Ágeis 
 
 ---
 
