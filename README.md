@@ -1,7 +1,7 @@
 # 👋 Opa, eu sou o Gustavo
 
 🎓 Estudante de Ciências da Computação (UNESP Rio Claro)  
-💻 Desenvolvedor Full Stack, com foco em Back-end e Infraestrutura de TI
+💻 Desenvolvedor Full Stack
 
 ---
 
