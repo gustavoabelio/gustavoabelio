@@ -11,7 +11,6 @@
 - Python
 - Sistemas Operacionais
 - Segurança da Informação
-- Git & GitHub
 
 ---
 
