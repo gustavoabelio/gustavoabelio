@@ -9,8 +9,7 @@
 - Java | Spring Boot
 - React
 - Python
-- Sistemas Operacionais
-- Segurança da Informação
+- PostgreSQL
 
 ---
 
