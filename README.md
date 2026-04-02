@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Opa, eu sou o Gustavo
 
-<!--
-**gustavoabelio/gustavoabelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciências da Computação (UNESP Rio Claro)  
+💻 Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+
+### 💻 Linguagens
+- Java
+- JavaScript
+- TypeScript
+- Python
+- Kotlin
+
+### ⚙️ Backend
+- Spring Boot
+- JPA / Hibernate
+- REST APIs
+
+### 🎨 Frontend
+- React
+- Vite
+
+### 🗄️ Banco de Dados
+- PostgreSQL
+- MongoDB
+
+---
+
+## 📌 Sobre mim
+Atualmente focado em fortalecer minha base técnica em desenvolvimento de software.
+
+---
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/gustavo-abelio-59774a372
