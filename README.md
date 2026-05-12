@@ -16,7 +16,7 @@
 
 I enjoy building full stack applications while learning more about backend development, software architecture, and scalable systems.
 
-Most of my learning happens by building things and figuring them out along the way.
+Most of my learning happens by building things and figuring problems out along the way.
 
 ---
 
